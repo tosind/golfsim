@@ -1,5 +1,5 @@
 
-import { SolutionItem, FeatureItem } from './types';
+import { SolutionItem, FeatureItem } from './types.ts';
 
 export const RESIDENTIAL_SOLUTIONS: SolutionItem[] = [
   {
